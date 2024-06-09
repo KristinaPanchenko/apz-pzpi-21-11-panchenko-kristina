@@ -1,0 +1,299 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u0412\u0435\u0442\u0430\u043B\\Favorites\\Desktop\\courseWork\\Kristina_Panchenko\\server\\apz-pzpi-21-11-panchenko-kristina-task2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A8F2DE41-8926-49FA-8D52-B38AD3A43E7F}|Solar\\Solar.csproj|c:\\users\\\u0432\u0435\u0442\u0430\u043B\\favorites\\desktop\\coursework\\kristina_panchenko\\server\\apz-pzpi-21-11-panchenko-kristina-task2\\solar\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8F2DE41-8926-49FA-8D52-B38AD3A43E7F}|Solar\\Solar.csproj|solutionrelative:solar\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8F2DE41-8926-49FA-8D52-B38AD3A43E7F}|Solar\\Solar.csproj|c:\\users\\\u0432\u0435\u0442\u0430\u043B\\favorites\\desktop\\coursework\\kristina_panchenko\\server\\apz-pzpi-21-11-panchenko-kristina-task2\\solar\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8F2DE41-8926-49FA-8D52-B38AD3A43E7F}|Solar\\Solar.csproj|solutionrelative:solar\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8F2DE41-8926-49FA-8D52-B38AD3A43E7F}|Solar\\Solar.csproj|c:\\users\\\u0432\u0435\u0442\u0430\u043B\\favorites\\desktop\\coursework\\kristina_panchenko\\server\\apz-pzpi-21-11-panchenko-kristina-task2\\solar\\appcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8F2DE41-8926-49FA-8D52-B38AD3A43E7F}|Solar\\Solar.csproj|solutionrelative:solar\\appcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8F2DE41-8926-49FA-8D52-B38AD3A43E7F}|Solar\\Solar.csproj|c:\\users\\\u0432\u0435\u0442\u0430\u043B\\favorites\\desktop\\coursework\\kristina_panchenko\\server\\apz-pzpi-21-11-panchenko-kristina-task2\\solar\\controllers\\housescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8F2DE41-8926-49FA-8D52-B38AD3A43E7F}|Solar\\Solar.csproj|solutionrelative:solar\\controllers\\housescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8F2DE41-8926-49FA-8D52-B38AD3A43E7F}|Solar\\Solar.csproj|c:\\users\\\u0432\u0435\u0442\u0430\u043B\\favorites\\desktop\\coursework\\kristina_panchenko\\server\\apz-pzpi-21-11-panchenko-kristina-task2\\solar\\controllers\\solarpaneltypescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8F2DE41-8926-49FA-8D52-B38AD3A43E7F}|Solar\\Solar.csproj|solutionrelative:solar\\controllers\\solarpaneltypescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8F2DE41-8926-49FA-8D52-B38AD3A43E7F}|Solar\\Solar.csproj|c:\\users\\\u0432\u0435\u0442\u0430\u043B\\favorites\\desktop\\coursework\\kristina_panchenko\\server\\apz-pzpi-21-11-panchenko-kristina-task2\\solar\\controllers\\batteriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8F2DE41-8926-49FA-8D52-B38AD3A43E7F}|Solar\\Solar.csproj|solutionrelative:solar\\controllers\\batteriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8F2DE41-8926-49FA-8D52-B38AD3A43E7F}|Solar\\Solar.csproj|c:\\users\\\u0432\u0435\u0442\u0430\u043B\\favorites\\desktop\\coursework\\kristina_panchenko\\server\\apz-pzpi-21-11-panchenko-kristina-task2\\solar\\models\\weatherdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8F2DE41-8926-49FA-8D52-B38AD3A43E7F}|Solar\\Solar.csproj|solutionrelative:solar\\models\\weatherdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8F2DE41-8926-49FA-8D52-B38AD3A43E7F}|Solar\\Solar.csproj|c:\\users\\\u0432\u0435\u0442\u0430\u043B\\favorites\\desktop\\coursework\\kristina_panchenko\\server\\apz-pzpi-21-11-panchenko-kristina-task2\\solar\\models\\solarpaneltype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8F2DE41-8926-49FA-8D52-B38AD3A43E7F}|Solar\\Solar.csproj|solutionrelative:solar\\models\\solarpaneltype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8F2DE41-8926-49FA-8D52-B38AD3A43E7F}|Solar\\Solar.csproj|c:\\users\\\u0432\u0435\u0442\u0430\u043B\\favorites\\desktop\\coursework\\kristina_panchenko\\server\\apz-pzpi-21-11-panchenko-kristina-task2\\solar\\models\\solarpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8F2DE41-8926-49FA-8D52-B38AD3A43E7F}|Solar\\Solar.csproj|solutionrelative:solar\\models\\solarpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8F2DE41-8926-49FA-8D52-B38AD3A43E7F}|Solar\\Solar.csproj|c:\\users\\\u0432\u0435\u0442\u0430\u043B\\favorites\\desktop\\coursework\\kristina_panchenko\\server\\apz-pzpi-21-11-panchenko-kristina-task2\\solar\\models\\battery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8F2DE41-8926-49FA-8D52-B38AD3A43E7F}|Solar\\Solar.csproj|solutionrelative:solar\\models\\battery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8F2DE41-8926-49FA-8D52-B38AD3A43E7F}|Solar\\Solar.csproj|c:\\users\\\u0432\u0435\u0442\u0430\u043B\\favorites\\desktop\\coursework\\kristina_panchenko\\server\\apz-pzpi-21-11-panchenko-kristina-task2\\solar\\models\\house.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8F2DE41-8926-49FA-8D52-B38AD3A43E7F}|Solar\\Solar.csproj|solutionrelative:solar\\models\\house.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8F2DE41-8926-49FA-8D52-B38AD3A43E7F}|Solar\\Solar.csproj|c:\\users\\\u0432\u0435\u0442\u0430\u043B\\favorites\\desktop\\coursework\\kristina_panchenko\\server\\apz-pzpi-21-11-panchenko-kristina-task2\\solar\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8F2DE41-8926-49FA-8D52-B38AD3A43E7F}|Solar\\Solar.csproj|solutionrelative:solar\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8F2DE41-8926-49FA-8D52-B38AD3A43E7F}|Solar\\Solar.csproj|c:\\users\\\u0432\u0435\u0442\u0430\u043B\\favorites\\desktop\\coursework\\kristina_panchenko\\server\\apz-pzpi-21-11-panchenko-kristina-task2\\solar\\controllers\\solarpanelscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8F2DE41-8926-49FA-8D52-B38AD3A43E7F}|Solar\\Solar.csproj|solutionrelative:solar\\controllers\\solarpanelscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8F2DE41-8926-49FA-8D52-B38AD3A43E7F}|Solar\\Solar.csproj|c:\\users\\\u0432\u0435\u0442\u0430\u043B\\favorites\\desktop\\coursework\\kristina_panchenko\\server\\apz-pzpi-21-11-panchenko-kristina-task2\\solar\\solar.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{A8F2DE41-8926-49FA-8D52-B38AD3A43E7F}|Solar\\Solar.csproj|solutionrelative:solar\\solar.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8F2DE41-8926-49FA-8D52-B38AD3A43E7F}|Solar\\Solar.csproj|c:\\users\\\u0432\u0435\u0442\u0430\u043B\\favorites\\desktop\\coursework\\kristina_panchenko\\server\\apz-pzpi-21-11-panchenko-kristina-task2\\solar\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8F2DE41-8926-49FA-8D52-B38AD3A43E7F}|Solar\\Solar.csproj|solutionrelative:solar\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8F2DE41-8926-49FA-8D52-B38AD3A43E7F}|Solar\\Solar.csproj|c:\\users\\\u0432\u0435\u0442\u0430\u043B\\favorites\\desktop\\coursework\\kristina_panchenko\\server\\apz-pzpi-21-11-panchenko-kristina-task2\\solar\\controllers\\weatherdatascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8F2DE41-8926-49FA-8D52-B38AD3A43E7F}|Solar\\Solar.csproj|solutionrelative:solar\\controllers\\weatherdatascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SolarPanel.cs",
+              "DocumentMoniker": "C:\\Users\\\u0412\u0435\u0442\u0430\u043B\\Favorites\\Desktop\\courseWork\\Kristina_Panchenko\\server\\apz-pzpi-21-11-panchenko-kristina-task2\\Solar\\Models\\SolarPanel.cs",
+              "RelativeDocumentMoniker": "Solar\\Models\\SolarPanel.cs",
+              "ToolTip": "C:\\Users\\\u0412\u0435\u0442\u0430\u043B\\Favorites\\Desktop\\courseWork\\Kristina_Panchenko\\server\\apz-pzpi-21-11-panchenko-kristina-task2\\Solar\\Models\\SolarPanel.cs",
+              "RelativeToolTip": "Solar\\Models\\SolarPanel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T15:24:53.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SolarPanelType.cs",
+              "DocumentMoniker": "C:\\Users\\\u0412\u0435\u0442\u0430\u043B\\Favorites\\Desktop\\courseWork\\Kristina_Panchenko\\server\\apz-pzpi-21-11-panchenko-kristina-task2\\Solar\\Models\\SolarPanelType.cs",
+              "RelativeDocumentMoniker": "Solar\\Models\\SolarPanelType.cs",
+              "ToolTip": "C:\\Users\\\u0412\u0435\u0442\u0430\u043B\\Favorites\\Desktop\\courseWork\\Kristina_Panchenko\\server\\apz-pzpi-21-11-panchenko-kristina-task2\\Solar\\Models\\SolarPanelType.cs",
+              "RelativeToolTip": "Solar\\Models\\SolarPanelType.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA0AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T15:24:53.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Battery.cs",
+              "DocumentMoniker": "C:\\Users\\\u0412\u0435\u0442\u0430\u043B\\Favorites\\Desktop\\courseWork\\Kristina_Panchenko\\server\\apz-pzpi-21-11-panchenko-kristina-task2\\Solar\\Models\\Battery.cs",
+              "RelativeDocumentMoniker": "Solar\\Models\\Battery.cs",
+              "ToolTip": "C:\\Users\\\u0412\u0435\u0442\u0430\u043B\\Favorites\\Desktop\\courseWork\\Kristina_Panchenko\\server\\apz-pzpi-21-11-panchenko-kristina-task2\\Solar\\Models\\Battery.cs",
+              "RelativeToolTip": "Solar\\Models\\Battery.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T15:24:53.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HousesController.cs",
+              "DocumentMoniker": "C:\\Users\\\u0412\u0435\u0442\u0430\u043B\\Favorites\\Desktop\\courseWork\\Kristina_Panchenko\\server\\apz-pzpi-21-11-panchenko-kristina-task2\\Solar\\Controllers\\HousesController.cs",
+              "RelativeDocumentMoniker": "Solar\\Controllers\\HousesController.cs",
+              "ToolTip": "C:\\Users\\\u0412\u0435\u0442\u0430\u043B\\Favorites\\Desktop\\courseWork\\Kristina_Panchenko\\server\\apz-pzpi-21-11-panchenko-kristina-task2\\Solar\\Controllers\\HousesController.cs",
+              "RelativeToolTip": "Solar\\Controllers\\HousesController.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAgwBsAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T15:24:53.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WeatherData.cs",
+              "DocumentMoniker": "C:\\Users\\\u0412\u0435\u0442\u0430\u043B\\Favorites\\Desktop\\courseWork\\Kristina_Panchenko\\server\\apz-pzpi-21-11-panchenko-kristina-task2\\Solar\\Models\\WeatherData.cs",
+              "RelativeDocumentMoniker": "Solar\\Models\\WeatherData.cs",
+              "ToolTip": "C:\\Users\\\u0412\u0435\u0442\u0430\u043B\\Favorites\\Desktop\\courseWork\\Kristina_Panchenko\\server\\apz-pzpi-21-11-panchenko-kristina-task2\\Solar\\Models\\WeatherData.cs",
+              "RelativeToolTip": "Solar\\Models\\WeatherData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T15:24:53.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BatteriesController.cs",
+              "DocumentMoniker": "C:\\Users\\\u0412\u0435\u0442\u0430\u043B\\Favorites\\Desktop\\courseWork\\Kristina_Panchenko\\server\\apz-pzpi-21-11-panchenko-kristina-task2\\Solar\\Controllers\\BatteriesController.cs",
+              "RelativeDocumentMoniker": "Solar\\Controllers\\BatteriesController.cs",
+              "ToolTip": "C:\\Users\\\u0412\u0435\u0442\u0430\u043B\\Favorites\\Desktop\\courseWork\\Kristina_Panchenko\\server\\apz-pzpi-21-11-panchenko-kristina-task2\\Solar\\Controllers\\BatteriesController.cs",
+              "RelativeToolTip": "Solar\\Controllers\\BatteriesController.cs",
+              "ViewState": "AQIAAEoAAAAAAAAAAAAIwF0AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T15:24:53.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SolarPanelTypesController.cs",
+              "DocumentMoniker": "C:\\Users\\\u0412\u0435\u0442\u0430\u043B\\Favorites\\Desktop\\courseWork\\Kristina_Panchenko\\server\\apz-pzpi-21-11-panchenko-kristina-task2\\Solar\\Controllers\\SolarPanelTypesController.cs",
+              "RelativeDocumentMoniker": "Solar\\Controllers\\SolarPanelTypesController.cs",
+              "ToolTip": "C:\\Users\\\u0412\u0435\u0442\u0430\u043B\\Favorites\\Desktop\\courseWork\\Kristina_Panchenko\\server\\apz-pzpi-21-11-panchenko-kristina-task2\\Solar\\Controllers\\SolarPanelTypesController.cs",
+              "RelativeToolTip": "Solar\\Controllers\\SolarPanelTypesController.cs",
+              "ViewState": "AQIAAE8AAAAAAAAAAAAcwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T15:24:53.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppContext.cs",
+              "DocumentMoniker": "C:\\Users\\\u0412\u0435\u0442\u0430\u043B\\Favorites\\Desktop\\courseWork\\Kristina_Panchenko\\server\\apz-pzpi-21-11-panchenko-kristina-task2\\Solar\\AppContext.cs",
+              "RelativeDocumentMoniker": "Solar\\AppContext.cs",
+              "ToolTip": "C:\\Users\\\u0412\u0435\u0442\u0430\u043B\\Favorites\\Desktop\\courseWork\\Kristina_Panchenko\\server\\apz-pzpi-21-11-panchenko-kristina-task2\\Solar\\AppContext.cs",
+              "RelativeToolTip": "Solar\\AppContext.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwBEAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T15:24:53.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\\u0412\u0435\u0442\u0430\u043B\\Favorites\\Desktop\\courseWork\\Kristina_Panchenko\\server\\apz-pzpi-21-11-panchenko-kristina-task2\\Solar\\Startup.cs",
+              "RelativeDocumentMoniker": "Solar\\Startup.cs",
+              "ToolTip": "C:\\Users\\\u0412\u0435\u0442\u0430\u043B\\Favorites\\Desktop\\courseWork\\Kristina_Panchenko\\server\\apz-pzpi-21-11-panchenko-kristina-task2\\Solar\\Startup.cs",
+              "RelativeToolTip": "Solar\\Startup.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAwwBkAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T15:24:53.495Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\\u0412\u0435\u0442\u0430\u043B\\Favorites\\Desktop\\courseWork\\Kristina_Panchenko\\server\\apz-pzpi-21-11-panchenko-kristina-task2\\Solar\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "Solar\\Models\\Customer.cs",
+              "ToolTip": "C:\\Users\\\u0412\u0435\u0442\u0430\u043B\\Favorites\\Desktop\\courseWork\\Kristina_Panchenko\\server\\apz-pzpi-21-11-panchenko-kristina-task2\\Solar\\Models\\Customer.cs",
+              "RelativeToolTip": "Solar\\Models\\Customer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T15:24:53.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "House.cs",
+              "DocumentMoniker": "C:\\Users\\\u0412\u0435\u0442\u0430\u043B\\Favorites\\Desktop\\courseWork\\Kristina_Panchenko\\server\\apz-pzpi-21-11-panchenko-kristina-task2\\Solar\\Models\\House.cs",
+              "RelativeDocumentMoniker": "Solar\\Models\\House.cs",
+              "ToolTip": "C:\\Users\\\u0412\u0435\u0442\u0430\u043B\\Favorites\\Desktop\\courseWork\\Kristina_Panchenko\\server\\apz-pzpi-21-11-panchenko-kristina-task2\\Solar\\Models\\House.cs",
+              "RelativeToolTip": "Solar\\Models\\House.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA4AAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T15:24:53.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CustomersController.cs",
+              "DocumentMoniker": "C:\\Users\\\u0412\u0435\u0442\u0430\u043B\\Favorites\\Desktop\\courseWork\\Kristina_Panchenko\\server\\apz-pzpi-21-11-panchenko-kristina-task2\\Solar\\Controllers\\CustomersController.cs",
+              "RelativeDocumentMoniker": "Solar\\Controllers\\CustomersController.cs",
+              "ToolTip": "C:\\Users\\\u0412\u0435\u0442\u0430\u043B\\Favorites\\Desktop\\courseWork\\Kristina_Panchenko\\server\\apz-pzpi-21-11-panchenko-kristina-task2\\Solar\\Controllers\\CustomersController.cs",
+              "RelativeToolTip": "Solar\\Controllers\\CustomersController.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAwwFEAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T15:24:53.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SolarPanelsController.cs",
+              "DocumentMoniker": "C:\\Users\\\u0412\u0435\u0442\u0430\u043B\\Favorites\\Desktop\\courseWork\\Kristina_Panchenko\\server\\apz-pzpi-21-11-panchenko-kristina-task2\\Solar\\Controllers\\SolarPanelsController.cs",
+              "RelativeDocumentMoniker": "Solar\\Controllers\\SolarPanelsController.cs",
+              "ToolTip": "C:\\Users\\\u0412\u0435\u0442\u0430\u043B\\Favorites\\Desktop\\courseWork\\Kristina_Panchenko\\server\\apz-pzpi-21-11-panchenko-kristina-task2\\Solar\\Controllers\\SolarPanelsController.cs",
+              "RelativeToolTip": "Solar\\Controllers\\SolarPanelsController.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAwwBsAAABcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T15:24:53.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Solar",
+              "DocumentMoniker": "C:\\Users\\\u0412\u0435\u0442\u0430\u043B\\Favorites\\Desktop\\courseWork\\Kristina_Panchenko\\server\\apz-pzpi-21-11-panchenko-kristina-task2\\Solar\\Solar.csproj",
+              "RelativeDocumentMoniker": "Solar\\Solar.csproj",
+              "ToolTip": "C:\\Users\\\u0412\u0435\u0442\u0430\u043B\\Favorites\\Desktop\\courseWork\\Kristina_Panchenko\\server\\apz-pzpi-21-11-panchenko-kristina-task2\\Solar\\Solar.csproj",
+              "RelativeToolTip": "Solar\\Solar.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-09T19:34:37.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u0412\u0435\u0442\u0430\u043B\\Favorites\\Desktop\\courseWork\\Kristina_Panchenko\\server\\apz-pzpi-21-11-panchenko-kristina-task2\\Solar\\Program.cs",
+              "RelativeDocumentMoniker": "Solar\\Program.cs",
+              "ToolTip": "C:\\Users\\\u0412\u0435\u0442\u0430\u043B\\Favorites\\Desktop\\courseWork\\Kristina_Panchenko\\server\\apz-pzpi-21-11-panchenko-kristina-task2\\Solar\\Program.cs",
+              "RelativeToolTip": "Solar\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T15:24:53.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "WeatherDatasController.cs",
+              "DocumentMoniker": "C:\\Users\\\u0412\u0435\u0442\u0430\u043B\\Favorites\\Desktop\\courseWork\\Kristina_Panchenko\\server\\apz-pzpi-21-11-panchenko-kristina-task2\\Solar\\Controllers\\WeatherDatasController.cs",
+              "RelativeDocumentMoniker": "Solar\\Controllers\\WeatherDatasController.cs",
+              "ToolTip": "C:\\Users\\\u0412\u0435\u0442\u0430\u043B\\Favorites\\Desktop\\courseWork\\Kristina_Panchenko\\server\\apz-pzpi-21-11-panchenko-kristina-task2\\Solar\\Controllers\\WeatherDatasController.cs",
+              "RelativeToolTip": "Solar\\Controllers\\WeatherDatasController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T15:24:53.514Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

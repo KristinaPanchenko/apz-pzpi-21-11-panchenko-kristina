@@ -52,7 +52,7 @@ namespace Solar
         public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
         {
             app.UseSwagger();
-            app.UseSwaggerUI(c => c.SwaggerEndpoint("/swagger/v1/swagger.json", "MetroNav v1"));
+            app.UseSwaggerUI(c => c.SwaggerEndpoint("/swagger/v1/swagger.json", "Solar"));
             if (env.IsDevelopment())
             {
                 app.UseDeveloperExceptionPage();
